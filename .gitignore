@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual Environment
+env/
+venv/
+ENV/
+VENV/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/config.toml
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Images / Videos / Snapshots
+snapshots/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# Model Weights
+*.pt
+
+# Other
+*.bak
+*.swp
+*.zip
