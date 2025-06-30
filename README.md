@@ -25,7 +25,18 @@
 
 ## UI Preview
 
-🎥 [Watch the full walkthrough](https://drive.google.com/file/d/1xBeKKjDZWNyRU4pQBRdCCTOAgq0b53YO/view?usp=sharing)
+**🔴 Live Surveillance Feed**
+![Live Feed](screenshots/live_feed.png)
+
+**📊 Analytics Dashboard**
+![Dashboard](screenshots/dashboard.png)
+
+**🔥 Heatmap Overlay**
+![Heatmap](screenshots/heatmap.png)
+
+**⚠️ Intrusion Alert & Restricted Zone**
+![Restricted Zone](screenshots/restricted_alert.png)
+
 
 
 
