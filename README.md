@@ -23,19 +23,11 @@
 
 ---
 
-## Demo
-
-🚀 **Live App:** [Coming Soon on Streamlit Cloud](https://neuracam.streamlit.app)
-
-> _(Replace with your real link after deployment)_
-
----
-
 ## UI Preview
 
-🎥 [Watch the full walkthrough](https://drive.google.com/your-google-drive-video-link)
+🎥 [Watch the full walkthrough](https://drive.google.com/file/d/1xBeKKjDZWNyRU4pQBRdCCTOAgq0b53YO/view?usp=sharing)
 
-> _(Replace with your actual Google Drive video link)_
+
 
 ---
 
